@@ -1,0 +1,55 @@
+html {
+    background-color: #FAF3DD;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+div#title-container {
+    display: flex;
+    justify-content: center;
+}
+h1#title {
+    color: black;
+}
+
+div#buttons-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+button#login-page {
+    height: 10%;
+    width: 30%;
+    background-color: #8FC0A9;
+    border: 1rem;
+    border-color: #8FC0A9;
+    border-radius: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+button#gallery-page {
+    height: 10%;
+    width: 30%;
+    background-color: #8FC0A9;
+    border: 1rem;
+    border-color: #8FC0A9;
+    border-radius: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+button#signup-page {
+    height: 10%;
+    width: 30%;
+    background-color: #8FC0A9;
+    border: 1rem;
+    border-color: #8FC0A9;
+    border-radius: 1rem;
+    margin: 0;
+    padding: 0;
+}
